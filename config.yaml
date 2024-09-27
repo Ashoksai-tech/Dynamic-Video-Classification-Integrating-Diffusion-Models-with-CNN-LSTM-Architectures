@@ -1,0 +1,6 @@
+video_path: 'data/sample_video.mp4'
+num_frames: 30
+frame_height: 28
+frame_width: 28
+input_channels: 3
+hidden_channels: 64
