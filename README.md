@@ -113,7 +113,7 @@ The pipeline consists of two main components:
 1. **Diffusion Model**: Used for feature extraction and reconstruction error detection.
 2. **CNN+LSTM with Attention**: Processes the extracted features for final classification.
 
-For a detailed explanation of the architecture, refer to the [technical documentation](docs/technical_documentation.md).
+For a detailed explanation of the architecture, refer to the [technical documentation](https://docs.google.com/document/d/1WPobXwESV0GEIPT0D88KzkKPvaFISigvuk7ZTxutgfw/edit).
 
 ## Training
 
@@ -163,4 +163,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-For more detailed information, please refer to the [technical documentation](docs/technical_documentation.md).
+For more detailed information, please refer to the [technical documentation](https://docs.google.com/document/d/1WPobXwESV0GEIPT0D88KzkKPvaFISigvuk7ZTxutgfw/edit).
